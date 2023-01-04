@@ -91,3 +91,23 @@ main {
   max-width: 1140px;
   margin: 0 auto;
 }
+.about-info-container {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+.aboutme info-title {
+  font-size: 20px;
+  color: #757575;
+
+
+}
+.info-description {
+  font-weight: 700;
+  font-size:20px;
+  color: #757575;
+
+}
+.what-i-do{
+  margin-top:130px;
+}
