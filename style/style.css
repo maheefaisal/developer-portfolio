@@ -70,14 +70,14 @@ nav li {
 /* Styling the about me section  */
 .aboutme {
   text-align: center;
-  margin-top: 130px;
+
   background: #fff8f3;
   border-radius: 10px;
   padding: 130px 110px;
 }
 .section-title {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   font-weight: 700;
   font-size: 35px;
 }
@@ -94,20 +94,36 @@ main {
 .about-info-container {
   display: flex;
   justify-content: space-evenly;
-  
 }
 .aboutme info-title {
   font-size: 20px;
   color: #757575;
-
-
 }
 .info-description {
   font-weight: 700;
-  font-size:20px;
+  font-size: 20px;
   color: #757575;
-
 }
-.what-i-do{
-  margin-top:130px;
+section {
+  margin-top: 130px;
 }
+.skills-container {
+  display: flex;
+  gap: 24px;
+}
+.skill-title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom:30px;
+}
+.skill-description {
+  color: #757575;
+}
+.skill {
+  background: #ffffff;
+  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  border-radius: 5px;
+  padding: 30px;
+}
+/* resume styles  */
