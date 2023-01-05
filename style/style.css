@@ -127,3 +127,29 @@ section {
   padding: 30px;
 }
 /* resume styles  */
+.resume-content {
+  display: flex;
+  gap: 25px;
+}
+.resume .title{
+  font-weight: 700;
+  font-size: 26px;
+  color: #757575;
+
+}
+.resume .sub-title{
+  color: #757575;
+  font-weight: 600;
+  font-size: 21px;
+  margin: 20px 0px;
+}
+.resume .description{
+  color: #757575;
+}
+.resume-item{
+  margin:50px 0px;
+}
+.resume-button{
+  margin:50px 0px;
+  text-align: center;
+}
